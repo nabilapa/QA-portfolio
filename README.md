@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm a QA Engineer & System Analyst with 3+ years of experience in software quality assurance for banking and ATM systems in Indonesia. My work spans the full SDLC — from requirements review and test planning to SIT/UAT execution, defect management, and release validation.
+I'm a QA Engineer & System Analyst with 4+ years of experience in software quality assurance for banking and ATM systems in Indonesia. My work spans the full SDLC — from requirements review and test planning to SIT/UAT execution, defect management, and release validation.
 
 I've supported 10+ successful go-live deployments across major banking clients including BRI, BTN, BSI, Danamon, and OCBC NISP.
 
