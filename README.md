@@ -11,7 +11,7 @@ I'm a QA Engineer & System Analyst with 3+ years of experience in software quali
 I've supported 10+ successful go-live deployments across major banking clients including BRI, BTN, BSI, Danamon, and OCBC NISP.
 
 📍 Jakarta, Indonesia  
-🔗 [LinkedIn](https://www.linkedin.com/in/nabilahputri)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nabilah-putri-aprilia-724837168/)  
 📧 nabilahputri8@gmail.com
 
 ---
