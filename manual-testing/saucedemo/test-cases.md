@@ -20,7 +20,7 @@
 
 ---
 
-## 🔐 Login
+## Login
 
 | TC ID | Test Scenario | Test Data | Expected Result | Actual Result | Status | Priority | Notes |
 |---|---|---|---|---|---|---|---|
