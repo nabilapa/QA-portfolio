@@ -68,22 +68,6 @@
 
 ---
 
-## Bugs Found
-
-| Bug ID | Related TC | Module | Bug Title | Severity | Priority | Status |
-|---|---|---|---|---|---|---|
-| BUG-001 | TC-002 | Login | Error message is not specific when password is incorrect | Minor | Medium | Open |
-| BUG-002 | TC-004 | Login | Locked out user is not redirected to support page | Minor | Low | Open |
-| BUG-003 | TC-006 | Product Catalog | Sort by 'Price (Low to High)' is inconsistent for products with equal price | Minor | Low | Open |
-| BUG-004 | TC-009 | Shopping Cart | Cart badge does not update in real-time when product is removed from catalog page | Major | High | Open |
-
-> Full bug report with steps to reproduce: [QA_Portfolio_-_Test_Case_and_Bug_Report_-_Nabilah_Putri_Aprilia.xlsx](./QA_Portfolio_-_Test_Case_and_Bug_Report_-_Nabilah_Putri_Aprilia.xlsx)
-
----
-
-*Last updated: April 2026*
-
-
 ## Test Design Techniques Used
 
 - **Equivalence Partitioning** — Input grouped into valid, invalid, 
