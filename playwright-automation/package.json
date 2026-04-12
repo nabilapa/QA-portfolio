@@ -1,0 +1,24 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "E2E automation tests for Saucedemo using Playwright",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:login": "npx playwright test tests/login.spec.js",
+    "test:inventory": "npx playwright test tests/inventory.spec.js",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "e2e",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1"
+  }
+}
