@@ -20,16 +20,10 @@ I've supported 10+ successful go-live deployments across major banking clients i
 ---
 ```
 QA-portfolio/
-├── manual-testing/
-│   └── saucedemo/
-│       ├── test-cases.xlsx
-│       └── bug-report.xlsx
-├── api-testing/
-│   └── reqres-api/
-│       └── reqres-postman-collection.json
-└── automation/
-    └── saucedemo-selenium/
-        └── (coming soon)
+├── manual-testing/         #Testcase & Bug reports
+├── api-testing/            #Postman collections & API test documentation
+└── automation/             #Playwright Automation
+       
 ```
 ## ✅ Projects
 
@@ -41,12 +35,12 @@ QA-portfolio/
 - Bug report documentation with severity, priority, and status tracking
 - Application under test: [saucedemo.com](https://www.saucedemo.com)
 
-### 2. API Testing — ReqRes (Coming Soon)
+### 2. API Testing — Restful Booker
 **Tools:** Postman  
 **Scope:** REST API validation
 
-### 3. Test Automation — SauceDemo (Coming Soon)
-**Tools:** Selenium, Python  
+### 3. Test Automation — SauceDemo
+**Tools:** Playwright
 **Scope:** Automated regression testing
 
 ---
